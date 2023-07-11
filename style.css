@@ -193,7 +193,7 @@
 .support {
 
     width: 1440px;
-    height: 300px;
+    height: 320px;
     flex-shrink: 0;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
@@ -488,3 +488,46 @@ line-height: normal;
 
 
 /* Latest Deal style end */
+
+.footer{
+    width: 1922px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+margin: auto;
+margin-top: 128px;
+
+}
+.footer-title{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+padding: 120px 20px 50px 20px;
+margin-bottom: 24px;
+
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 32px;
+
+}
+.footer-reserved{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    
+}
